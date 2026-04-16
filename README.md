@@ -1,4 +1,5 @@
-"""# Hi there, I'm Sharon Nyambura! 👋
+### Hi there, I'm Sharon Nyambura! 👋
+
 🚀 **Data Analyst | Data Scientist | Machine Learning Enthusiast**
 
 I'm a passionate and driven data professional based in Nairobi, Kenya. My work focuses on extracting actionable insights from complex datasets to drive informed decision-making.
