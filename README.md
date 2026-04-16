@@ -1,5 +1,7 @@
 # Hi there, I'm Sharon Nyambura! 👋
 
+## 🚀 Data Analyst | Data Scientist| Machine Learning Enthusiast
+
 I'm a passionate and driven data professional based in Nairobi, Kenya. My work focuses on extracting actionable insights from complex datasets to drive informed decision-making.
 
 ## About Me
@@ -28,6 +30,8 @@ Here are some of the projects I've been working on:
 *   **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow/Keras (inferred from ML projects)
 *   **Tools:** Jupyter Notebook, Git, GitHub
 *   **Concepts:** Data Analysis, Machine Learning, Statistical Modeling, Data Visualization, Hypothesis Testing, EDA, Time Series Analysis
+
+![Profile views](https://komarev.com/ghpvc/?username=sharon-gichira&color=blue)
 
 ## Connect with Me
 
