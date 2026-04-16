@@ -1,41 +1,50 @@
-# Hi there, I'm Sharon Nyambura! 👋
-
-## 🚀 Data Analyst | Data Scientist| Machine Learning Enthusiast
+"""# Hi there, I'm Sharon Nyambura! 👋
+🚀 **Data Analyst | Data Scientist | Machine Learning Enthusiast**
 
 I'm a passionate and driven data professional based in Nairobi, Kenya. My work focuses on extracting actionable insights from complex datasets to drive informed decision-making.
 
-## About Me
+---
 
-I specialize in data analysis, machine learning, and SQL, with a strong foundation in using tools like Jupyter Notebook for data exploration and model development. I enjoy tackling real-world problems and transforming raw data into meaningful stories.
+### 🛠 Skills & Tools
 
-## My Projects
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=flat&logo=sqlite&logoColor=white) |
+| **Libraries** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) |
+| **Data Viz** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat) |
+| **Tools** | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
 
-Here are some of the projects I've been working on:
+---
 
+### 📂 Featured Projects
 
-*   **[SQL-Projects](https://github.com/sharon-gichira/SQL-Projects)**: A collection of projects demonstrating my proficiency in SQL for data manipulation, querying, and database management.
-*   **[World-Hypertension-Analysis](https://github.com/sharon-gichira/World-Hypertension-Analysis)**: Data analysis focusing on global hypertension trends and related factors.
-*   **[Jumia-Analysis](https://github.com/sharon-gichira/Jumia-Analysis)**: Analyzing relationships between different features in e-commerce data to uncover insights.
-*   **[Agricultural-Commodity-Price-Forecasting](https://github.com/sharon-gichira/Agricultural-Commodity-Price-Forecasting)**: Utilizing EDA, SARIMA, LSTM, and XGBoost for modeling and predicting agricultural commodity price trends.
-*   **[Customer-Transactions](https://github.com/sharon-gichira/Customer-Transactions)**: Projects related to analyzing customer transaction data.
-*   **[Chicago-Crashes](https://github.com/sharon-gichira/Chicago-Crashes)**: An advanced machine learning project focusing on model interpretability using Chicago crash data.
-*   **[Hypothesis_Testing](https://github.com/sharon-gichira/Hypothesis_Testing)**: Demonstrations and applications of various hypothesis testing techniques.
-*   **[LinearRegression_Assumptions](https://github.com/sharon-gichira/LinearRegression_Assumptions)**: Exploring and validating assumptions in linear regression models.
-*   **[Cleaning-Data](https://github.com/sharon-gichira/Cleaning-Data)**: Projects showcasing data cleaning techniques, including handling missing values and data inconsistencies.
-*   **[Data_analysis_in_base_python](https://github.com/sharon-gichira/Data_analysis_in_base_python)**: Practicing fundamental data analysis techniques using base Python.
+#### 🌾 [Agricultural Commodity Price Forecasting](https://github.com/sharon-gichira/Agricultural-Commodity-Price-Forecasting)
+Predicting agricultural price trends in the Kenyan market using **SARIMA, LSTM, and XGBoost**. This project focuses on providing actionable insights for food security and market stability.
 
-## Skills & Tools
+#### 🚗 [Chicago Road Traffic Crashes Analysis](https://github.com/sharon-gichira/Chicago-Crashes)
+An advanced machine learning project utilizing classification models to identify primary contributory causes of accidents. Implemented model interpretability to extract safety recommendations.
 
-*   **Programming Languages:** Python, SQL
-*   **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow/Keras (inferred from ML projects)
-*   **Tools:** Jupyter Notebook, Git, GitHub
-*   **Concepts:** Data Analysis, Machine Learning, Statistical Modeling, Data Visualization, Hypothesis Testing, EDA, Time Series Analysis
+#### 🛒 [Jumia E-commerce Analysis](https://github.com/sharon-gichira/Jumia-Analysis)
+Uncovering consumer behavior trends and feature relationships within e-commerce data to optimize business decision-making.
 
-![Profile views](https://komarev.com/ghpvc/?username=sharon-gichira&color=blue)
+#### 🏥 [World Hypertension Analysis](https://github.com/sharon-gichira/World-Hypertension-Analysis)
+A global data study exploring health trends and demographic factors related to hypertension.
 
-## Connect with Me
+---
 
-*   **LinkedIn:** [Sharon Gichira](https://www.linkedin.com/in/sharon-gichira)
-*   **GitHub:** [sharon-gichira](https://github.com/sharon-gichira)
+### 📈 GitHub Stats
+![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharon-gichira&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharon-gichira&layout=compact&theme=radical&hide_border=true)
 
-Feel free to explore my repositories and connect with me!
+---
+
+### 📫 Connect with Me
+* 💼 [LinkedIn](https://www.linkedin.com/in/sharon-gichira)
+* 🐙 [GitHub](https://github.com/sharon-gichira)
+
+---
+*"Transforming raw data into meaningful stories, one dataset at a time."*
+"""
+
+with open("sharon_github_readme.md", "w") as f:
+    f.write(readme_content)
