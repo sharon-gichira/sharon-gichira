@@ -57,7 +57,7 @@ Exploratory analysis of global hypertension data in a Jupyter Notebook.
 `Python` `Jupyter` `EDA`
 
 ### 🏆 Kaggle Competitions
-Classification challenges including Titanic survival and EV purchase prediction, where I practise feature engineering and model tuning.
+Classification challenges where I practise feature engineering and model tuning.
 `Python` `Scikit-learn` `XGBoost`
 
 ---
